@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/restaurant-saveurs-dor/static/css/main.903e5353.css",
-    "main.js": "/restaurant-saveurs-dor/static/js/main.c1e37f18.js",
+    "main.js": "/restaurant-saveurs-dor/static/js/main.cdc10145.js",
     "static/js/453.a87b2953.chunk.js": "/restaurant-saveurs-dor/static/js/453.a87b2953.chunk.js",
     "static/media/img2.jpg": "/restaurant-saveurs-dor/static/media/img2.068a7f3ae9e844145948.jpg",
     "static/media/food.jpg": "/restaurant-saveurs-dor/static/media/food.f304ebe8c62e40b071d8.jpg",
     "static/media/img1.jpg": "/restaurant-saveurs-dor/static/media/img1.f284d29505a581d4eeee.jpg",
     "index.html": "/restaurant-saveurs-dor/index.html",
     "main.903e5353.css.map": "/restaurant-saveurs-dor/static/css/main.903e5353.css.map",
-    "main.c1e37f18.js.map": "/restaurant-saveurs-dor/static/js/main.c1e37f18.js.map",
+    "main.cdc10145.js.map": "/restaurant-saveurs-dor/static/js/main.cdc10145.js.map",
     "453.a87b2953.chunk.js.map": "/restaurant-saveurs-dor/static/js/453.a87b2953.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.903e5353.css",
-    "static/js/main.c1e37f18.js"
+    "static/js/main.cdc10145.js"
   ]
 }
